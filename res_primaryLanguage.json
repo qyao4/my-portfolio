@@ -68,7 +68,6 @@
         "images/portfolio/ecommerce/p1.png",
         "images/portfolio/ecommerce/p2.png"
       ],
-      //"url": "http://qyaointeract.byethost11.com/cms/public/home/",
       "url": "http://web.sxrdzl.com/",
       "technologies": [
         {
@@ -76,12 +75,12 @@
           "name": "PHP"
         },
         {
-          "class": "devicon-mysql-original",
-          "name": "MYSQL"
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
         },
         {
           "class": "devicon-apache-plain",
-          "name": "APACHE"
+          "name": "Apache"
         }
       ]
     }
@@ -110,7 +109,7 @@
     {
       "title": "3D Object Viewer",
       "startDate": "corner",
-      "description": "The website  by Tim Holman is a modern, SVG-based twist on the classic ribbon. It offers a more polished and less obtrusive way to link from a project page to its GitHub repository. The site includes instructions and code snippets for creating your own GitHub corner in various colors, which animates when hovered over on desktop or upon page load on mobile devices. Visitors can customize and download their version to incorporate into their projects.",
+      "description": "The website by Tim Holman is a modern, SVG-based twist on the classic ribbon. It offers a more polished and less obtrusive way to link from a project page to its GitHub repository. The site includes instructions and code snippets for creating your own GitHub corner in various colors, which animates when hovered over on desktop or upon page load on mobile devices. Visitors can customize and download their version to incorporate into their projects.",
       "images": [
         "images/portfolio/resources3/p1.png",
         "images/portfolio/resources3/p2.png"
@@ -129,7 +128,7 @@
       "technologies": [
         "PHP",
         "HTML/CSS",
-        "Javascript",
+        "JavaScript",
         "SEO",
         "Database"
       ]
@@ -156,7 +155,7 @@
         "Application Dev"
       ],
       "technologies": [
-        "Asp.NEt",
+        "Asp.NET",
         "C#",
         "ActiveX",
         "ETL"
