@@ -63,15 +63,13 @@
     {
       "title": "Content Management",
       "startDate": "2023",
-      "description": "Developed comprehensive Content Management System (CMS) for hypothetical second-hand car dealership. This project, which used Apache, JavaScript, PHP, and MySQL stack, was aimed at enhancing sales efficiency and customer satisfaction by managing vehicle inventory and customer interactions more effectively; key features include CAPTCHA for security, SEO-friendly permalinks, and version control using GitHub; system facilitates roles like administrators, who manage vehicle listings, and non-administrative users, who can browse listings and post comments. ",
+      "description": "An e-commerce website using the VUE and Spring Boot frameworks.",
       "images": [
-        "images/portfolio/content-management/p1.png",
-        "images/portfolio/content-management/p2.png",
-        "images/portfolio/content-management/p3.png",
-        "images/portfolio/content-management/p4.png",
-        "images/portfolio/content-management/p5.png"
+        "images/portfolio/ecommerce/p1.png",
+        "images/portfolio/ecommerce/p2.png"
       ],
-      "url": "http://qyaointeract.byethost11.com/cms/public/home/",
+      //"url": "http://qyaointeract.byethost11.com/cms/public/home/",
+      "url": "http://web.sxrdzl.com/",
       "technologies": [
         {
           "class": "devicon-php-plain",
