@@ -23,11 +23,6 @@
   "skills": {
     "icons": [
       {
-        "name": "JavaScript",
-        "class": "devicon-javascript-plain",
-        "level": "70"
-      },
-      {
         "name": "HTML 5",
         "class": "devicon-html5-plain",
         "level": "95"
@@ -46,6 +41,11 @@
         "name": "Wordpress",
         "class": "devicon-wordpress-plain",
         "level": "85"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
       },
       {
         "name": "React",
