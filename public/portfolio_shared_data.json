@@ -2,7 +2,7 @@
   "basic_info": {
     "name": "Qiang Yao",
     "titles": [
-      "Web Developer",
+      "Web App Developer",
       "Software Developer",
       "Full Stack Developer"
     ],
@@ -22,16 +22,6 @@
   },
   "skills": {
     "icons": [
-      {
-        "name": "Java",
-        "class": "devicon-java-plain",
-        "level": "80"
-      },
-      {
-        "name": "C#",
-        "class": "devicon-csharp-plain",
-        "level": "65"
-      },
       {
         "name": "JavaScript",
         "class": "devicon-javascript-plain",
@@ -53,6 +43,11 @@
         "level": "85"
       },
       {
+        "name": "Wordpress",
+        "class": "devicon-wordpress-plain",
+        "level": "85"
+      },
+      {
         "name": "React",
         "class": "devicon-react-original",
         "level": "90"
@@ -66,6 +61,16 @@
         "name": "MySql",
         "class": "devicon-mysql-plain",
         "level": "60"
+      },
+      {
+        "name": "Java",
+        "class": "devicon-java-plain",
+        "level": "80"
+      },
+      {
+        "name": "C#",
+        "class": "devicon-csharp-plain",
+        "level": "65"
       }
     ]
   }
